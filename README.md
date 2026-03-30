@@ -32,7 +32,7 @@ goal:      Build intelligent digital products
            that solve real-world problems
 ```
 
-<br clear="right"/>
+
 
 ---
 
