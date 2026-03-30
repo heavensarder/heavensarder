@@ -117,7 +117,7 @@ goal:      Build intelligent digital products
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe066,50:ff4ecd,100:00e5ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00aaff,100:0066ff&height=100&section=footer" width="100%"/>
 
 ⭐ From [Heaven Sarder](https://github.com/heavensarder)
 
