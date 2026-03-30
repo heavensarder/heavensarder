@@ -18,8 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=heavensarder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff4ecd&text_color=c9d1d9" width="420"/>
-
 ```yaml
 name:      Heaven Sarder
 location:  🇧🇩 Bangladesh
@@ -32,7 +30,7 @@ goal:      Build intelligent digital products
            that solve real-world problems
 ```
 
-
+<br clear="right"/>
 
 ---
 
@@ -83,6 +81,17 @@ goal:      Build intelligent digital products
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heavensarder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=heavensarder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff4ecd&text_color=c9d1d9&count_private=true&hide=stars" height="160"/>
+
+</div>
+
+---
 
 ## 🔥 Contribution Streak
 
