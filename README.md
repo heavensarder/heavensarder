@@ -64,11 +64,19 @@
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🌐 Portfolio & Contact  
 
-* 🌍 Website: [heavensarder.com](https://www.heavensarder.com/?utm_source=chatgpt.com)
-* 📧 Email: [sarder.heaven@gmail.com](mailto:sarder.heaven@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/heaven-sarder-86b24a1b1/
+<p align="left">
+  <a href="https://www.heavensarder.com/">
+    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:sarder.heaven@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/heaven-sarder-86b24a1b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 
