@@ -1,9 +1,9 @@
 # Hi 👋, I'm Heaven Sarder
 
-### 🚀 Full Stack Developer | WordPress Expert | SaaS Builder
+### 🚀 Full Stack Developer | WordPress Expert | Web & AI Application Builder
 
-💡 Passionate about building scalable web apps, SaaS platforms, and modern UI/UX experiences.
-🔥 5+ years of experience in real-world projects including eCommerce, POS systems & AI tools.
+💡 Passionate about building modern **web applications** and **AI-powered solutions** that are scalable, efficient, and user-friendly.
+🔥 5+ years of experience developing real-world applications with clean architecture and performance-focused design.
 
 ---
 
@@ -11,11 +11,10 @@
 
 * 🇧🇩 Based in Bangladesh
 * 💼 Full Stack Developer (MERN, Next.js, PHP, WordPress)
-* 🧠 Currently exploring **AI-powered applications & automation**
-* ⚡ Love building **real business solutions (POS, SaaS, CMS)**
-* 🎯 Goal: Build impactful digital products & scale globally
-
----
+* 🤖 Focused on building **AI-powered applications & automation systems**
+* 🌐 Specialized in **dynamic web applications & interactive UI/UX**
+* ⚡ Strong interest in **performance optimization & scalable systems**
+* 🎯 Goal: Build intelligent digital products that solve real-world problems
 
 ## 🛠️ Tech Stack
 
