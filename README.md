@@ -17,26 +17,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 CloudPOS SaaS
-
-* Full-stack POS system for modern businesses
-* CMS Dashboard + Dynamic Pages
-* Tech: React, Node.js, MySQL
-
-### 🤖 AI Photo Generator
-
-* AI-powered image transformation app
-* Real-time processing & modern UI
-
-### 🛍️ eCommerce Platforms
-
-* Multiple WooCommerce & custom solutions
-* Payment, inventory, and admin systems
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
