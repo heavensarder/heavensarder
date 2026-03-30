@@ -18,6 +18,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=heavensarder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00aaff&text_color=c9d1d9&count_private=true&rank_icon=github" width="400"/>
+
 ```yaml
 name:      Heaven Sarder
 location:  🇧🇩 Bangladesh
