@@ -18,7 +18,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=heavensarder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00aaff&text_color=c9d1d9&count_private=true&rank_icon=github" width="400"/>
+<a align="right" href="https://github.com/heavensarder">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heavensarder&theme=tokyonight" width="420"/>
+</a>
 
 ```yaml
 name:      Heaven Sarder
@@ -87,9 +89,9 @@ goal:      Build intelligent digital products
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heavensarder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heavensarder&theme=tokyonight" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=heavensarder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff4ecd&text_color=c9d1d9&count_private=true&hide=stars" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heavensarder&theme=tokyonight" height="160"/>
 
 </div>
 
