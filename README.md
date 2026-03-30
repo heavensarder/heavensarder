@@ -65,8 +65,22 @@
 
 ### 🎨 Design
 
-![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
-![Canva](https://img.shields.io/badge/Canva-blue?logo=canva)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge\&logo=adobexd\&logoColor=white)
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge\&logo=adobelightroom\&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge\&logo=adobeindesign\&logoColor=white)
+
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge\&logo=framer\&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge\&logo=webflow\&logoColor=white)
+
 
 ---
 
@@ -76,15 +90,7 @@
 * 📧 Email: [sarder.heaven@gmail.com](mailto:sarder.heaven@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/heaven-sarder-86b24a1b1/
 
----
 
-## 📊 GitHub Stats
-
-![Heaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=heavensarder\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heavensarder\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🔥 Contribution Streak
 
